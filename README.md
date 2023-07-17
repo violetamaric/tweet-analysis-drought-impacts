@@ -16,3 +16,5 @@ Content of dataset folder:
 * **tweet-to-tweet-22**-results of multilabel classification when training the data on labeled tweets from 2019 and assessing on tweet dataset containing word drought retrieved for 2022
 
 * **tweets-19-labeled**-tweets containing word drought retrieved for 2019 and classified manually into different categories 
+
+Except for DIR_processed, all the other datasets contain tweets in Italian language.
